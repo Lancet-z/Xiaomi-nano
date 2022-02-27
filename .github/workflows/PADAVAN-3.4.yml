@@ -1,6 +1,4 @@
-#修改TNAME: MI-NANO 中的MI-NANO为你需要编译的型号，注意名称要与configs/templates/目录下的名字相同
-name: Build PADAVAN 3.4内核 MI-NANO-KVR
-
+name: PADAVAN 3.4内核版
 on:
   workflow_dispatch:
     inputs:

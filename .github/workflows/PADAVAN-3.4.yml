@@ -7,11 +7,6 @@ on:
         required: true
         default: 'https://github.com/flowlife/rt-n56u.git'
         
-    branches: 
-      - master
-  schedule:
-    - cron: 0 8 * * 5
-
 jobs:
   build:
     runs-on: ubuntu-18.04

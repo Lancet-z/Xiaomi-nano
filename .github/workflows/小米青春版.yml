@@ -13,7 +13,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: 开始编译小米青春版固件
+name: 开始编译LEDE固件
 
 on:
   repository_dispatch:
